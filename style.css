@@ -1,0 +1,42 @@
+body{
+    font-size: medium;
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(253, 254, 252);
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-style: inherit;
+    text-align: center;
+    font-size: 5ch;
+}
+h2{
+    font-size: 3;
+}
+img{
+    align-items: flex-start;
+    border-style: groove;
+    border-spacing: 1cap;
+    border-color: blue;
+    max-width: 50ch;
+    max-height: 40ch;
+}
+table{
+    color: #50cb6f;
+    border-radius: 4%;
+    border-style: dashed;
+    border-color: #f70505;
+}
+ul{
+    color: #76e090;
+    border-radius: 15%;
+    border-style: dashed;
+    border-color: #f70505;
+
+}
+.about{
+    font-family: 'Yellowtail', cursive;
+    border-radius: 2%;
+    border-style: dashed;
+    border-color: #f70505;
+    color: #77d990;
+}
